@@ -1,0 +1,14 @@
+.containervisible {
+    position: fixed;
+    display:flex;
+    background: rgba(0,0,0,0.95);
+    justify-Content: center;
+    top: 74px;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.containerunvisible {
+    display: none;
+}
